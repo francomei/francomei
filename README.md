@@ -1,16 +1,25 @@
-### Hi there 👋
+<div align="center"> 
+<h1 align="center">Hi 👋, I´m francomei</h1>
+<h3 align="center">A passionate web fullstack from Argentina. I´m a full stack developer 💻 eager to learn new technologies 🤓, get knocked down with problems 🥊 and get back up again to solve them 💪. I´ve recently finished the Henry Bootcamp 🥾 where I learned all you need to know to get started in the web development industry: 🔧</h3>
+</div>
 
-<!--
-**francomei/francomei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🤵‍♂️ About Me :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I am currently looking for a job
+- 📩 Contact me via e-mail at francomeinardo13@gmail.com 
+
+<div align="left">
+<h3>🚀 Languages and Tools:</h3>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-plain-wordmark.svg" width="40" height="40" />
+</div>
