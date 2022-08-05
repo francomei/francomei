@@ -16,12 +16,12 @@ A passionate web fullstack from Argentina. I´m a full stack developer 💻 eage
 
 <div align="left">
 <h3>🚀 Languages and Tools:</h3>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="50" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="50" height="40" color="white" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="50" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="50" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="50" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" width="50" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="40" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="50" height="40" />
