@@ -8,7 +8,9 @@
 ### 🙋‍♂️ About Me :
 
 - 💻 I am currently looking for a job
-- 📩 Contact me via e-mail at francomeinardo13@gmail.com 
+- 📩 Contact me 
+- Linkedin: https://www.linkedin.com/in/franco-meinardo-1980b2232/
+- Email: francomeinardo13@gmail.com 
 
 <div align="left">
 <h3>🚀 Languages and Tools:</h3>
@@ -18,6 +20,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40" />
