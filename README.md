@@ -8,7 +8,7 @@ A passionate web fullstack from Argentina. I´m a full stack developer 💻 eage
 
 ### 🙋‍♂️ About Me :
 
-- 🌍  I'm based in Buenos Aires, Argentina.
+- 🌍  I'm based in Córdoba, Argentina.
 - 💻 I am currently looking for a job
 - 📩 Contact me 
 - Linkedin: https://www.linkedin.com/in/franco-meinardo-1980b2232/
