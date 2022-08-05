@@ -1,12 +1,14 @@
 <div align="center"> 
 <h1 align="center">Hi 👋, I´m francomei</h1>
-<h3 align="center">A passionate web fullstack from Argentina. I´m a full stack developer 💻 eager to learn new technologies 🤓, get knocked down with problems 🥊 and get back up again to solve them 💪. I´ve recently finished the Henry Bootcamp 🥾 where I learned all you need to know to get started in the web development industry: 🔧</h3>
+<h3 align="center">
+A passionate web fullstack from Argentina. I´m a full stack developer 💻 eager to learn new technologies 🤓, get knocked down with problems 🥊 and get back up again to solve them 💪. I´ve recently finished the Henry Bootcamp 🥾 where I learned all you need to know to get started in the web development industry 🔧</h3>
 </div>
 
 ---
 
 ### 🙋‍♂️ About Me :
 
+- 🌍  I'm based in Buenos Aires, Argentina.
 - 💻 I am currently looking for a job
 - 📩 Contact me 
 - Linkedin: https://www.linkedin.com/in/franco-meinardo-1980b2232/
