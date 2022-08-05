@@ -5,7 +5,7 @@
 
 ---
 
-### 🤵‍♂️ About Me :
+### 🙋‍♂️ About Me :
 
 - 💻 I am currently looking for a job
 - 📩 Contact me via e-mail at francomeinardo13@gmail.com 
@@ -23,3 +23,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-plain-wordmark.svg" width="60" height="60" />
 </div>
+
+---
+
+### My Stats:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=francomei&theme=highcontrast)](https://git.io/streak-stats)
