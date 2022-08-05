@@ -29,3 +29,7 @@
 ### My Stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=francomei&theme=highcontrast)](https://git.io/streak-stats)
+
+[![francomei GitHub stats](https://github-readme-stats.vercel.app/api?username=francomei&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+
