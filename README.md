@@ -21,5 +21,5 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-plain-wordmark.svg" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-plain-wordmark.svg" width="60" height="60" />
 </div>
