@@ -22,13 +22,9 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48"/> </a> 
     <a href="https://nodejs.org" target="_blank"> <img src="https://i.imgur.com/XX8lvL7.png" width="48" height="48"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="48" height="48"/> </a> 
+    <a target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png" width="48" height="48"/> </a> 
+    <a target="_blank"> <img src="https://img.icons8.com/office/452/react.png" width="48" height="48"/> </a> 
     
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png" width="48" height="48"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/office/452/react.png" width="48" height="48"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="48" height="48"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="48" height="48"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="48" height="48"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="48" height="48"/> </a> 
    
 </p>
 
