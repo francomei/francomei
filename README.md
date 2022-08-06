@@ -35,6 +35,7 @@
 <img src="https://git-scm.com/images/logo@2x.png" width="40" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="50" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" width="50" height="40" />
+    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/postgresql.svg" width="50" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-plain-wordmark.svg" width="60" height="60" />
 </div>
 
