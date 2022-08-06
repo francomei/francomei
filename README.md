@@ -3,8 +3,6 @@
 </div>
 <h1 align="center">I'm a junior Full Stack Web Developer</h1>
 
----
-
 ### 🙋‍♂️ About Me :
 
 - 🌍 I'm based in Córdoba, Argentina.
