@@ -21,7 +21,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="50" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" width="50" height="40" />
-<img src="https://git-scm.com" width="40" height="50" />
+<img src="https://git-scm.com/images/logo@2x.png" width="40" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="50" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" width="50" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-plain-wordmark.svg" width="60" height="60" />
