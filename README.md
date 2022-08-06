@@ -1,7 +1,5 @@
 <div> 
 <h1 align="center">Hi 👋, I´m francomei</h1>
-<h3>
-A passionate web fullstack from Argentina. I´m a full stack developer 💻 eager to learn new technologies 🤓, get knocked down with problems 🥊 and get back up again to solve them 💪. I´ve recently finished the Henry Bootcamp 🥾 where I learned all you need to know to get started in the web development industry 🔧</h3>
 </div>
 
 ---
