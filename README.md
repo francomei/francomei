@@ -1,16 +1,18 @@
 <div> 
 <h1 align="center">Hi 👋, I´m francomei</h1>
 </div>
+<h1 align="center">I'm a junior Full Stack Web Developer</h1>
 
 ---
 
 ### 🙋‍♂️ About Me :
 
-- 🌍  I'm based in Córdoba, Argentina.
-- 💻 I am currently looking for a job
+- 🌍 I'm based in Córdoba, Argentina.
+- 💻 I'm currently looking for a job
 - 📩 Contact me 
 - Linkedin: https://www.linkedin.com/in/franco-meinardo-1980b2232/
 - Email: francomeinardo13@gmail.com 
+- ⚡ Fun fact I'm always wearing earphones, I just can't stop listening to music
 
 <div align="left">
 <h3>🚀 Languages and Tools:</h3>
