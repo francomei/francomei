@@ -14,10 +14,21 @@
 
 <div align="left">
 <h3>🚀 Languages and Tools:</h3>
+
+<p align="left"> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" height="48"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="48" height="48"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" width="48" height="48"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48"/> </a> 
+    <a href="https://nodejs.org" target="_blank"> <img src="https://i.imgur.com/XX8lvL7.png" width="48" height="48"/> </a>   
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="48" height="48"/> </a> 
+   
+</p>
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="50" height="40" color="white" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="50" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="50" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50" height="40" />
+<img src="https://iconscout.com/icon/react-4" width="50" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="50" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" width="50" height="40" />
