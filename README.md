@@ -22,24 +22,12 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48"/> </a> 
     <a href="https://nodejs.org" target="_blank"> <img src="https://i.imgur.com/XX8lvL7.png" width="48" height="48"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="48" height="48"/> </a> 
+    <a target="_blank"> <img src="https://img.icons8.com/color/452/react-native.png" width="48" height="48"/> </a> 
     <a target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png" width="48" height="48"/> </a> 
-    <a target="_blank"> <img src="PHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHZpZXdCb3g9IjAgMCAxNzIgMTcyIj48ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9Im5vbnplcm8iIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2UtZGFzaGFycmF5PSIiIHN0cm9rZS1kYXNob2Zmc2V0PSIwIiBmb250LWZhbWlseT0ibm9uZSIgZm9udC13ZWlnaHQ9Im5vbmUiIGZvbnQtc2l6ZT0ibm9uZSIgdGV4dC1hbmNob3I9Im5vbmUiIHN0eWxlPSJtaXgtYmxlbmQtbW9kZTogbm9ybWFsIj48cGF0aCBkPSJNMCwxNzJ2LTE3MmgxNzJ2MTcyeiIgZmlsbD0ibm9uZSI" width="48" height="48"/> </a> 
-    
-   
+    <a target="_blank"> <img src="https://img.icons8.com/color/344/postgreesql.png" width="48" height="48"/> </a> 
+    <a target="_blank"> <img src="https://img.icons8.com/color/344/webpack.png" width="48" height="48"/> </a> 
+    <a target="_blank"> <img src="https://img.icons8.com/color/344/angularjs.png" width="48" height="48"/> </a> 
 </p>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="50" height="40" color="white" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="50" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="50" height="40" />
-<img src="https://iconscout.com/icon/react-4" width="50" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="50" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" width="50" height="40" />
-<img src="https://git-scm.com/images/logo@2x.png" width="40" height="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="50" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" width="50" height="40" />
-    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/postgresql.svg" width="50" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-plain-wordmark.svg" width="60" height="60" />
 </div>
 
 ---
