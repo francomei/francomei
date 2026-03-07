@@ -9,7 +9,7 @@
 - 💻 I'm currently looking for a job
 - ⚡ Fun fact I'm always wearing earphones, I just can't stop listening to music
 - 📩 Contact me 
-- Linkedin: https://www.linkedin.com/in/franco-meinardo-1980b2232/
+- Linkedin: https://www.linkedin.com/in/franco-meinardo/
 - Email: francomeinardo13@gmail.com 
 
 <div align="left">
