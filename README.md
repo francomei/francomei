@@ -1,16 +1,21 @@
 <div> 
-<h1 align="center">Hi 👋, I´m francomei</h1>
+<h1 align="center">Hi 👋, I´m Franco</h1>
 </div>
-<h3 align="center">I'm a junior Full Stack Web Developer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
-### 🙋‍♂️ About Me :
+## 🙋‍♂️ About Me
 
-- 🌍 I'm based in Córdoba, Argentina.
-- 💻 I'm currently looking for a job
-- ⚡ Fun fact I'm always wearing earphones, I just can't stop listening to music
-- 📩 Contact me 
-- Linkedin: https://www.linkedin.com/in/franco-meinardo/
-- Email: francomeinardo13@gmail.com 
+- 🌍 Based in Córdoba, Argentina  
+- 💻 Full Stack Developer focused on building web applications  
+- 🧪 Experience in QA Automation with Cypress  
+- 🚀 Currently open to new opportunities  
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/franco-meinardo/  
+- Email: francomeinardo13@gmail.com  
 
 <div align="left">
 <h3>🚀 Languages and Tools:</h3>
