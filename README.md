@@ -14,19 +14,24 @@
 
 <div align="left">
 <h3>🚀 Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" height="48"/> </a> 
-    <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="48" height="48"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" width="48" height="48"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48"/> </a> 
-    <a href="https://nodejs.org" target="_blank"> <img src="https://i.imgur.com/XX8lvL7.png" width="48" height="48"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="48" height="48"/> </a> 
-    <a href="https://es.reactjs.org" target="_blank"> <img src="https://img.icons8.com/color/452/react-native.png" width="48" height="48"/> </a> 
-    <a href="https://es.redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png" width="48" height="48"/> </a> 
-    <a href="https://angular.io/start" target="_blank"> <img src="https://img.icons8.com/color/344/angularjs.png" width="48" height="48"/> </a> 
-    <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.icons8.com/color/344/postgreesql.png" width="48" height="48"/> </a> 
-    <a href="https://webpack.js.org" target="_blank"> <img src="https://img.icons8.com/color/344/webpack.png" width="48" height="48"/> </a> 
-    <a href="https://www.mysql.com" target="_blank"> <img src="https://img.icons8.com/color/344/mysql-logo.png" width="48" height="48"/> </a> 
+<p align="left">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
+
 </p>
 </div>
 
