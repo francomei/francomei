@@ -18,11 +18,6 @@
 
 ---
 
-## :pushpin: Featured Projects
-- :test_tube: **Automated testing suite** — Playwright + TypeScript (E2E, Page Object Model)
-- :shopping_trolley: **E-commerce catalog with admin panel** — React + Firebase (Firestore, Storage, Auth), deployed on Vercel
-
----
 
 ## :mailbox: Contact
 - LinkedIn: https://www.linkedin.com/in/franco-meinardo/  
