@@ -1,21 +1,30 @@
-<div> 
-<h1 align="center">Hi 👋, I´m Franco</h1>
-</div>
-<h3 align="center">Full Stack Web Developer</h3>
+### Hi, I'm Franco 👋
 
-## 🙋‍♂️ About Me
+**Full Stack Developer & QA Automation Engineer** based in Córdoba, Argentina 🇦🇷
 
-- 🌍 Based in Córdoba, Argentina  
-- 💻 Full Stack Developer focused on building web applications  
-- 🧪 Experience in QA Automation with Cypress  
-- 🚀 Currently open to new opportunities  
+I combine end-to-end web development with test automation, aiming to build 
+reliable software for global teams.
 
 ---
 
-## 📫 Contact
+**🔧 Currently**
+- Building an E2E testing suite with **Playwright + TypeScript**
+- Developing Full Stack projects for clients through **ElementalWebs**
+- Open to remote QA Automation / Full Stack Developer roles (junior-mid level)
 
-- LinkedIn: https://www.linkedin.com/in/franco-meinardo/  
-- Email: francomeinardo13@gmail.com  
+**🧰 Tech Stack**
+
+`JavaScript` `TypeScript` `React` `Angular` `Vue` `Node.js`
+`PostgreSQL` `MySQL` `Cypress` `Playwright` `Postman`
+`Git` `Jira` `Jenkins` `Vercel` `AWS`
+
+**📌 Featured Projects**
+- 🧪 Automated testing suite — Playwright + TypeScript (E2E, Page Object Model)
+- 🛍️ E-commerce catalog with admin panel — React + Firebase (Firestore, Storage, Auth), deployed on Vercel
+
+**📫 Contact**
+- Email: francomeinardo13@gmail.com
+- LinkedIn: [linkedin.com/in/francomeinardo](https://www.linkedin.com/in/francomeinardo)
 
 <div align="left">
 <h3>🚀 Languages and Tools:</h3>
