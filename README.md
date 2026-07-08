@@ -3,7 +3,7 @@
 </div>
 <h3 align="center">Full Stack Developer & QA Automation Engineer</h3>
 
-## :man_raising_hand: About Me
+## :raising_hand_man: About Me
 - :earth_africa: Based in Córdoba, Argentina  
 - :computer: Full Stack Developer focused on building end-to-end web applications  
 - :test_tube: QA Automation experience with Cypress and Playwright  
