@@ -11,14 +11,6 @@
 
 ---
 
-## :toolbox: Tech Stack
-`JavaScript` `TypeScript` `React` `Angular` `Vue` `Node.js`
-`PostgreSQL` `MySQL` `Cypress` `Playwright` `Postman`
-`Git` `Jira` `Jenkins` `Vercel` `AWS`
-
----
-
-
 ## :mailbox: Contact
 - LinkedIn: https://www.linkedin.com/in/franco-meinardo/  
 - Email: francomeinardo13@gmail.com
