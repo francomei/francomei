@@ -7,8 +7,6 @@
 - :earth_africa: Based in Córdoba, Argentina  
 - :computer: Full Stack Developer focused on building end-to-end web applications  
 - :test_tube: QA Automation experience with Cypress and Playwright  
-- :hammer_and_wrench: Currently building an E2E testing suite with Playwright + TypeScript  
-- :briefcase: Building client web projects through ElementalWebs  
 - :rocket: Open to new remote opportunities (QA Automation / Full Stack)
 
 ---
