@@ -1,30 +1,34 @@
-### Hi, I'm Franco 👋
+<div> 
+<h1 align="center">Hi :wave:, I´m Franco</h1>
+</div>
+<h3 align="center">Full Stack Developer & QA Automation Engineer</h3>
 
-**Full Stack Developer & QA Automation Engineer** based in Córdoba, Argentina 🇦🇷
-
-I combine end-to-end web development with test automation, aiming to build 
-reliable software for global teams.
+## :man_raising_hand: About Me
+- :earth_africa: Based in Córdoba, Argentina  
+- :computer: Full Stack Developer focused on building end-to-end web applications  
+- :test_tube: QA Automation experience with Cypress and Playwright  
+- :hammer_and_wrench: Currently building an E2E testing suite with Playwright + TypeScript  
+- :briefcase: Building client web projects through ElementalWebs  
+- :rocket: Open to new remote opportunities (QA Automation / Full Stack)
 
 ---
 
-**🔧 Currently**
-- Building an E2E testing suite with **Playwright + TypeScript**
-- Developing Full Stack projects for clients through **ElementalWebs**
-- Open to remote QA Automation / Full Stack Developer roles (junior-mid level)
-
-**🧰 Tech Stack**
-
+## :toolbox: Tech Stack
 `JavaScript` `TypeScript` `React` `Angular` `Vue` `Node.js`
 `PostgreSQL` `MySQL` `Cypress` `Playwright` `Postman`
 `Git` `Jira` `Jenkins` `Vercel` `AWS`
 
-**📌 Featured Projects**
-- 🧪 Automated testing suite — Playwright + TypeScript (E2E, Page Object Model)
-- 🛍️ E-commerce catalog with admin panel — React + Firebase (Firestore, Storage, Auth), deployed on Vercel
+---
 
-**📫 Contact**
+## :pushpin: Featured Projects
+- :test_tube: **Automated testing suite** — Playwright + TypeScript (E2E, Page Object Model)
+- :shopping_trolley: **E-commerce catalog with admin panel** — React + Firebase (Firestore, Storage, Auth), deployed on Vercel
+
+---
+
+## :mailbox: Contact
+- LinkedIn: https://www.linkedin.com/in/franco-meinardo/  
 - Email: francomeinardo13@gmail.com
-- LinkedIn: [linkedin.com/in/francomeinardo](https://www.linkedin.com/in/francomeinardo)
 
 <div align="left">
 <h3>🚀 Languages and Tools:</h3>
